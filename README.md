@@ -3,19 +3,13 @@ This repository contains notes of several topics in the field of cybersecurity p
 # How its Organanized
 It contains severl directories, each for different category of knowledge.
 
-1. **Concepts** 
-   General overview of different cyber cyber security concepts like CIA, AV, SIEM etc.
+1. **Concepts**:  General overview of different cyber cyber security concepts like CIA, AV, SIEM etc.
 
-2. **Solutions** 
-   Informations about different softwares (solutions), that a security professional should know.
-   **Eg**. Windows Event Viewer, ELK Stack, Eset, Sophos FW etc.
+2. **Solutions**: Informations about different softwares (solutions), that a security professional should know. **Eg**. Windows Event Viewer, ELK Stack, Eset, Sophos FW etc.
 
-3. **Tools** 
-   Informations about the tools used by security professionals.
-   **Eg**. Nmap, Metaspploit, Autopsy, etc. 
+3. **Tools**: Informations about the tools used by security professionals. **Eg**. Nmap, Metaspploit, Autopsy, etc. 
 
-4. **Frameworks**
-   Cybersecurity framewerks like ATT&CK, NIST etc.
+4. **Frameworks**: Cybersecurity framewerks like ATT&CK, NIST etc.
 
 ***NOTE***: This repo doesn't contain all the concepts mentioned in the example. But I plan to add them soon.
 
