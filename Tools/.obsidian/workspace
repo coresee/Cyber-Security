@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "64fd9935496d3da3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b9f992ecd8adb53",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "msf/02 Commands.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d67d08f46142abd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "299eb9e935f21d4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2924cd8dda003ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9550df225782e212",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223
+  },
+  "right": {
+    "id": "191c7da3826f9c1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "704a8e73ca39396e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c252b2491fa432f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "msf/02 Commands.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0b9f992ecd8adb53",
+  "lastOpenFiles": [
+    "msf/02 Commands.md",
+    "msf/01 Modules.md",
+    "msf/00 Initializing.md",
+    "msf/attachments/Pasted image 20210709140324.png",
+    "msf/attachments/Pasted image 20210709140422.png",
+    "msf/01 Commands.md",
+    "msf/02 Modules.md",
+    "msf/attachments/Pasted image 20210709134827.png",
+    "msf/modules.md",
+    "msf/commands.md"
+  ]
+}
